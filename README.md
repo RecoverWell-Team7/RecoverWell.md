@@ -37,8 +37,13 @@ RecoverWell is a platform dedicated to supporting individuals on their path to r
 
 
 ___
+### 😊 Our ERD
 
 
-
+![](./diagram-export-6_29_2023, 10_35_31 AM.png)
 
 ___
+
+
+### 😊 Our Techonologies
+
