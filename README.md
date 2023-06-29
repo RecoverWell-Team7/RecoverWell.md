@@ -1,6 +1,7 @@
 
 ### 🏙️  Mission Statement 
-RecoverWell is a platform dedicated to supporting individuals on their path to recovery from substance abuse by providing a nurturing community where people can connect in person, share personal experiences with others virtually, and find the strength and support needed to overcome addiction. 
+RecoverWell is a platform dedicated to supporting individuals on their path to recovery from substance abuse by providing a nurturing community where people can connect in person, share personal experiences with others, and find the strength and support needed to overcome addiction. 
+
 ___
 
 ### 😀 Who do we serve?
@@ -18,11 +19,11 @@ ___
 
 
 ### 📝 Summary
-Substance abuse is a significant public health crisis in the United States, with millions of individuals affected by addiction and limited access to treatment. The COVID-19 pandemic has further exacerbated the challenges, hindering access to support services and contributing to increased substance use as a coping mechanism. New York State has witnessed a concerning rise in drug-related deaths and chronic drug abuse, particularly in upstate and suburban counties, with notable disparities among different demographic groups.
+We created RecoverWell, a platform to support individuals recovering from substance abuse. It provides a nurturing community where people can connect, share experiences, and find the strength to overcome addiction. This app is important to us because each of us know someone that struggles with substance abuse
 
-Addressing the substance abuse crisis requires urgent action to close the treatment gap and ensure equitable access to support. Efforts should focus on sustaining essential services, overcoming barriers to treatment, and combating the stigma associated with addiction. By prioritizing prevention, treatment, and community support, we can mitigate the devastating consequences of substance abuse, particularly in the post-pandemic era, and build healthier and stronger communities for all.
+Substance abuse was already a significant issue in New York, especially in New York City, with high rates of overdose deaths. The pandemic worsened the problem due to increased stress, job losses, and social isolation. Our app addresses this need by offering a supportive community to encourage sobriety.
+
 ___
-
 
 
 ### 😞 The Problem 
@@ -32,24 +33,12 @@ ___
 
 
 ### 😊 Our Solution
-RecoverWell is a platform dedicated to supporting individuals on their path to recovery from substance abuse. By fostering a nurturing community and providing virtual connections, RecoverWell empowers individuals to overcome addiction and achieve long-term wellness. Users can connect with others, share personal experiences, and find the strength and support needed to overcome addiction. RecoverWell's mission is to create a supportive environment where individuals can connect, learn, and grow on their recovery journey.
-___
+RecoverWell is a platform dedicated to supporting individuals on their path to recovery from substance abuse. By fostering a nurturing community and providing virtual connections, RecoverWell empowers individuals to overcome addiction and achieve long-term wellness. Users can connect with others, share personal experiences, create events & join events, and find the strength and support needed to overcome addiction. RecoverWell's mission is to create a supportive environment where individuals can connect, learn, and grow on their recovery journey.
 
-
-
-### 🧗‍♂️ Key Technical Challenge
-* User engagement and community building: Implement features such as forums, commenting systems, and social media integration to promote user engagement and foster a strong community.
-* Mobile and desktop compatibility: Ensure the website is compatible with both mobile and desktop devices for a seamless user experience.
-* Creating a personal avatar and providing options to update/delete it.
-* Creating virtual meetups.
 
 ___
 
 
 
-### +++ Extension Opportunities 
-* Implementing a chat/video chat feature for direct communication between volunteers and event hosts.
-* Server scalability and accessibility: Develop a server infrastructure that allows users to connect from any device, not limited to a local environment.
-* Enable users to create and log in with their Google accounts.
 
 ___
